@@ -2,11 +2,24 @@
 
 ###
 
-<p align="left">I am a Software Engineering student deepening my knowledge in programming, especially in Java and HTML, fundamental technologies for application development. With experience in Git and GitHub, I have successfully created and managed projects, fostering collaboration and efficiency.<br><br>Transitioning from a career in Civil Construction in the United States to Back-End development, I bring strong skills in communication, leadership, and problem-solving, along with fluency in English and Spanish, developed through diverse team interactions.<br><br>I am determined, focused, and eager to contribute to high-performing teams in my journey as a developer.</p>
+<p align="left">👋 Hello!
+I am a Software Engineering student, currently deepening my knowledge in programming, particularly in Java and HTML, fundamental technologies for application development.
+
+💻 My experience with Java and HTML, along with the use of tools such as Git and GitHub, has enabled me to create and manage projects effectively.
+
+💪 I am focused, determined, and possess a strong sense of character—traits that drive me to overcome challenges and pursue exceptional results.
+
+🚧 I am transitioning from a career in Civil Construction in the United States to Back-End development.
+
+🌎 During my experience as a construction worker, I developed essential skills in communication, leadership, and problem-solving, while honing my proficiency in English and Spanish to interact with diverse teams.
+
+✨ Currently, I am exploring tools like Git, GitHub, and HTML to manage projects collaboratively and streamline my workflow.
+
+🚀 I believe these skills will be crucial in my new journey as a developer, allowing me to contribute effectively to high-performing teams.</p>
 
 ###
 
-<p align="left">Techs</p>
+<h2 align="left">Techs</h2>
 
 ###
 
