@@ -3,7 +3,7 @@
 ###
 
 <p align="left">👋 Hello!
-I am a Software Engineering student, currently deepening my knowledge in programming, particularly in Java and HTML, fundamental technologies for application development.
+I am a Software Engineering student, currently deepening my knowledge in programming, particularly in Java, HTML and CSS, fundamental technologies for application development.
 
 💻 My experience with Java and HTML, along with the use of tools such as Git and GitHub, has enabled me to create and manage projects effectively.
 
