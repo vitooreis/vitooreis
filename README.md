@@ -2,20 +2,15 @@
 
 ###
 
-<p align="left">👋 Hello!
-I am a Software Engineering student, currently deepening my knowledge in programming, particularly in Java, HTML and CSS, fundamental technologies for application development.
+<p align="left">
+I am a career transition professional currently pursuing a degree in Software Engineering and determined to build a solid foundation in software development. After gaining experience in leadership and project management within the Construction Industry, I decided to follow my true passion: technology.
 
-💻 My experience with Java and HTML, along with the use of tools such as Git and GitHub, has enabled me to create and manage projects effectively.
+I possess hands-on experience with Full-Stack development skills, focusing on Back-End using Java and API integration, as well as Front-End development, leveraging HTML and CSS to create intuitive and functional user interfaces. I am proficient in tools like Git/GitHub, essential for version control and team collaboration, and have extensive experience working with development environments such as Eclipse and VS Code.
 
-💪 I am focused, determined, and possess a strong sense of character—traits that drive me to overcome challenges and pursue exceptional results.
+My experience includes developing and delivering projects that prioritize efficiency, innovation, and maintainability. Notably, I developed a product registration and listing system and an address search application using postal codes (CEP), integrated with a public API. These projects were guided by Clean Code principles and user-oriented development.
 
-🚧 I am transitioning from a career in Civil Construction in the United States to Back-End development.
-
-🌎 During my experience as a construction worker, I developed essential skills in communication, leadership, and problem-solving, while honing my proficiency in English and Spanish to interact with diverse teams.
-
-✨ Currently, I am exploring tools like Git, GitHub, and HTML to manage projects collaboratively and streamline my workflow.
-
-🚀 I believe these skills will be crucial in my new journey as a developer, allowing me to contribute effectively to high-performing teams.</p>
+With fluency in English and technical Spanish, I bring the ability to collaborate in multicultural environments, combined with my international experience, which has strengthened my adaptability and critical thinking.
+</p>
 
 ###
 
