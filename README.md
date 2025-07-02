@@ -58,9 +58,9 @@ I'm a career transition professional currently pursuing a degree in Software Eng
 
 ### 🤖 Stats
 
-<img Add commentMore actions
+<img 
     align="left" 
-    alt="GitHub Stats"Add commentMore actions
+    alt="GitHub Stats"
     height="150" 
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=vitooreis&show_icons=true&theme=tokyonight&include_all_commits=true" 
@@ -73,5 +73,3 @@ I'm a career transition professional currently pursuing a degree in Software Eng
     height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitooreis&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=9" 
 />
-
-
