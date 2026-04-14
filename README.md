@@ -55,11 +55,3 @@ I'm a career transition professional currently pursuing a degree in Software Eng
 
 <br/>
 <br/>
-  
-  
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitooreis&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=9" 
-/>
